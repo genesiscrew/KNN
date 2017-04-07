@@ -1,0 +1,6 @@
+ 
+run this command from console: java 
+java -jar nearestNeighbour.jar part1/iris-training.txt part1/iris-test.txt 
+can also specify k nearest neighbour by adding third parameter: 
+java -jar nearestNeighbour.jar part1/iris-training.txt part1/iris-test.txt 3
+
